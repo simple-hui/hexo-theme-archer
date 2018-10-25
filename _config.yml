@@ -29,6 +29,7 @@ social:
   others: 
   rss: 
 sharewrapper: false
+share_wrapper: false
 # friends
 friends:
   maqun: https://www.marke.xin/
@@ -115,6 +116,7 @@ index_intro_height: 50
 post_intro_height: 50
 about_intro_height: 50
 # copyright
+copyrightbottom: false
 copyright:
   enable: false
   # https://creativecommons.org/
